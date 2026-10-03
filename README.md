@@ -284,15 +284,17 @@ These test cases demonstrate that the application accepts different customer pro
 
 ## 🚀 Deployment
 
-The Streamlit prediction application was deployed so that it can be accessed through a web browser without requiring the user to run the application locally.
+The Medical Insurance Cost Prediction application has been deployed using Streamlit Community Cloud.
 
-**Live Application:**
-[Add your deployed Streamlit application link here]
+### Live Application
 
-**GitHub Repository:**
-[Add your GitHub repository link here]
+[Open the Live Application](https://medical-insurance-cost-prediction-05.streamlit.app/)
 
----
+### GitHub Repository
+
+[View the GitHub Repository](https://github.com/Hussain-Ahmad05/medical-insurance-cost-prediction)
+
+The application allows users to enter customer information including age, gender, BMI, number of children, smoking status, and region. The trained machine learning model then predicts the estimated medical insurance cost.
 
 ## 📁 Project Structure
 
