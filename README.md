@@ -154,7 +154,7 @@ Because the target variable, `charges`, is a continuous numerical value, this pr
 
 The selected machine learning model was:
 
-**[Multiple Linear Regression]**
+**Multiple Linear Regression**
 
 The model was trained using the preprocessed customer features and the insurance charges as the target variable.
 
@@ -182,10 +182,10 @@ The trained model was evaluated using standard regression metrics.
 
 | Metric   |                     Result |
 | -------- | -------------------------: |
-| MAE      |      **[4340.57]** |
-| MSE      |      **[40427305.21]** |
-| RMSE     |     **[6358.24]** |
-| R² Score | **[0.7521]** |
+| MAE      |      **4340.57** |
+| MSE      |      **40427305.21** |
+| RMSE     |     **6358.24** |
+| R² Score | **0.7521** |
 
 ### Metric Explanation
 
@@ -243,7 +243,7 @@ Two different test cases were performed to verify that the application can gener
 | Smoker   | No        |
 | Region   | Northeast |
 
-**Prediction:** `[$15642.20]`
+**Prediction:** `$15642.20`
 
 ### Test Case 2
 
@@ -256,7 +256,7 @@ Two different test cases were performed to verify that the application can gener
 | Smoker   | Yes       |
 | Region   | Northeast |
 
-**Prediction:** `[$26182.24]`
+**Prediction:** `$26182.24`
 
 These test cases demonstrate that the application accepts different customer profiles and generates numerical insurance-cost predictions.
 
@@ -394,6 +394,6 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**[Hussain Ahmad]**
+**Hussain Ahmad**
 
 Medical Insurance Cost Prediction — Machine Learning Project
